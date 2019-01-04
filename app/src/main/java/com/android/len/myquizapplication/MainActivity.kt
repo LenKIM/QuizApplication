@@ -110,7 +110,7 @@ class MainActivity : AppCompatActivity() {
   }
 
   companion object {
-    private const val KEY_INDEX = "index"
-    private const val TAG = "QuizActivity"
+    private val KEY_INDEX = "index"
+    private val TAG = "QuizActivity"
   }
 }
